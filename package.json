@@ -1,12 +1,12 @@
 {
-  "name": "deneme",
+  "name": "NarcosCode",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Quazar#1539",
+  "author": "MustafaMert#0001",
   "license": "ISC",
   "dependencies": {
     "cat-names": "^3.0.0",
